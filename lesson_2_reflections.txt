@@ -6,3 +6,6 @@ Staging area is an intermediate connection between working directory and the rep
 
 How can you use the staging area to make sure you have one commit per logical change?
 Because you can compare between the staging area and the last commit, so you can be sure that the last change is logical.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+For example when you're trying to try something new but you're not sure of it, it'll help because it keeps the last version and you can work with the same code in a different functionality that may not work.
