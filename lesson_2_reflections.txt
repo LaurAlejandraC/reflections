@@ -12,3 +12,6 @@ For example when you're trying to try something new but you're not sure of it, i
 
 How do the diagrams help you visualize the branch structure?
 Because it helps seeing if there's a problem at reaching any branch that we can create, losting the changes that we want to make.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When we merge two branches together we are combining the functions of the branches, for example, if we added a functionallity as an experiment and we liked the result but to the main branch we have also made changes we don't want to lost the work that we have been doing. We represent it in that way because it's the combination of both branches.
